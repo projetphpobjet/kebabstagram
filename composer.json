@@ -13,10 +13,10 @@
     },
     "autoload": {
         "psr-4":
-        {  "Controller":".",
-	   "DB":".",
-	   "Model":".",
-	   "Auth":"."                      
+        {"Controller":".",
+	     "DB":".",
+	     "Model":".",
+	     "Auth":"."
             
         }
     }
