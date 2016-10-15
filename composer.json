@@ -1,0 +1,23 @@
+{
+    "name": "Projet kebabstagram",
+    "type" : "project",
+    "require": {
+	"slim/slim": "3.*",
+    "slim/extras": "*",
+    "slim/twig-view": "^2.0",   
+    "illuminate/database": "5.2",
+    "illuminate/events": "^5.2",
+    "cartalyst/sentinel": "^2.0",
+    "php": ">=7.0.0 || 5.5.0",
+	"symfony/yaml": "2.*"
+    },
+    "autoload": {
+        "psr-4":
+        {  "Controller":".",
+	   "DB":".",
+	   "Model":".",
+	   "Auth":"."                      
+            
+        }
+    }
+}
