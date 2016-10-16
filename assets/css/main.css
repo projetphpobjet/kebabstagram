@@ -10,18 +10,12 @@
 @import "form";
 @import "detail";
 @import "profil";*/
-
-
-body
-{
-  background-color: rgb(245, 245, 245);
+/* line 15, ../scss/main.scss */
+body {
+  background-color: whitesmoke;
   font-family: "Calibri", "Arial";
   padding: 0 2%;
-
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-
-
 }
-
