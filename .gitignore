@@ -1,11 +1,5 @@
-.idea/*
-config.ini
+DB/config.ini
 vendor/
 composer.lock
 .sass-cache/
-*.tmp
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.gif
+public/uploads
